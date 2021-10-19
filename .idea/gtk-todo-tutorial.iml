@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.5.8" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="atk (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cairo (v1.17.5, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cairo-gobject (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gdk3 (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gdk_pixbuf2 (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gio2 (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="glib2 (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gobject-introspection (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gtk3 (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="matrix (v0.4.2, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="native-package-installer (v1.1.1, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pango (v3.4.9, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pkg-config (v1.4.6, RVM: ruby-2.5.8) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="red-colors (v0.3.0, RVM: ruby-2.5.8) [gem]" level="application" />
+  </component>
+</module>
